@@ -1,0 +1,12 @@
+max-players: 7
+
+corner-1: 0
+corner-2: 0 
+y: 0 
+
+red-color: 4
+blue-color: 1
+
+main-spawn: 0
+red-spawn: 0
+blue-spawn: 0

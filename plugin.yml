@@ -1,0 +1,24 @@
+name: TNTWars
+main: me.kamdenb.tntwars.Main
+version: 1.0
+commands:
+   tntwars:
+      description: main command
+   maxplayers:
+      description: get max players
+   twset:
+      description: set location
+   twspawn:
+      description: set team spawns 
+   ingame:
+      description: test command
+   teams:
+      description: test command
+   teamspawn:
+      description: tp to team spawn
+   twadmin:
+      description: Admin
+   start:
+      description: Start
+   lobby:
+      description: Tp to lobby
